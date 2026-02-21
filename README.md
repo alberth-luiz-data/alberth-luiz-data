@@ -20,4 +20,33 @@
   - Implementação de modelos de Machine Learning para insights estratégicos  
   - Criação de dashboards executivos e storytelling de dados  
 
-- **Stellantis** – Aprendiz em Elétrica
+- **Stellantis** – Aprendiz em Elétrica *(Out 2023 – Mar 2025)*  
+  - Programação industrial (Ladder)  
+  - Manutenção de sistemas críticos e melhoria contínua  
+
+- **Compass UOL** – Estagiário em Engenharia de Dados *(Jun 2023 – Nov 2023)*  
+  - Processamento de Big Data com PySpark e Hadoop  
+  - Automatização de fluxos de carga de dados com Python  
+
+---
+
+## 🎓 Educação
+- **Pós-Graduação em Data Science** – Descomplica *(Jun 2025 – Jun 2026)*  
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Uninassau *(Mar 2023 – Jun 2025)*  
+
+---
+
+## 📜 Certificações
+- Data Engineer Associate – DataCamp (2025)  
+- DP-900 & AI-900 – Microsoft Azure Fundamentals (2025)  
+
+---
+
+## 🌐 Idiomas
+- Português: Nativo  
+- Inglês: Conversação e Escuta  
+
+---
+
+## 📊 Estatísticas GitHub
+![Alberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberth-luiz-data&show_icons=true&theme=radical)
