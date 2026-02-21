@@ -38,7 +38,8 @@
 
 ## 📜 Certificações
 - Data Engineer Associate – DataCamp (2025)  
-- DP-900 & AI-900 – Microsoft Azure Fundamentals (2025)  
+- DP-900– Microsoft Azure Fundamentals (2025)
+- AI-900 - Microsoft Artificial inteligence Fundamentals (2025)
 
 ---
 
